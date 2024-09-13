@@ -1,0 +1,67 @@
+{
+  "fruits": [
+    {
+      "id": "1",
+      "name": "Banana"
+    },
+    {
+      "id": "2",
+      "name": "Orange"
+    },
+    {
+      "id": "3",
+      "name": "Apple"
+    }
+  ],
+
+
+  "vegetables": [
+    {
+      "id": "1",
+      "name": "Corn"
+    },
+    {
+      "id": "2",
+      "name": "Cucumber"
+    },
+    {
+      "id": "3",
+      "name": "Potato"
+    }
+  ],
+
+
+  "clothes": [
+    {
+      "id": "1",
+      "name": "Jacket"
+    },
+    {
+      "id": "2",
+      "name": "Underwear"
+    },
+    {
+      "id": "3",
+      "name": "Shoes"
+    }
+  ],
+
+  
+  "productType": [
+    {
+      "id": "1",
+      "name": "Fruits",
+      "path": "/fruits"
+    },
+    {
+      "id": "2",
+      "name": "Vegetables",
+      "path": "/vegetables"
+    },
+    {
+      "id": "3",
+      "name": "Clothes",
+      "path": "/clothes"
+    }
+  ]
+}
